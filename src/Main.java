@@ -8,6 +8,12 @@ public class Main {
 
 
         System.out.println("Ögrenebilecek miyim?");
+
+        int sayi1=30;
+        int sayi2=40;
+
+        int toplam=sayi1+sayi2;
+        System.out.println(toplam);
     }
 
 }
